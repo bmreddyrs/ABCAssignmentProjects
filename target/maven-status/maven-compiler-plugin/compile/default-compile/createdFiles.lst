@@ -1,0 +1,12 @@
+com\abc\assignment\config\WebInitializer.class
+com\abc\assignment\exceptions\PersonApiExceptionHandler.class
+com\abc\assignment\model\Person.class
+com\abc\assignment\controller\Welcome.class
+com\abc\assignment\exceptions\PersonNotFoundException.class
+com\abc\assignment\services\PersonService.class
+com\abc\assignment\config\WebConfiguration.class
+com\abc\assignment\repository\PersonRepository.class
+com\abc\assignment\controller\PersonController.class
+com\abc\assignment\exceptions\ResponseError.class
+com\abc\assignment\ABCAssignmentApplication.class
+com\abc\assignment\config\CORSFilter.class

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.abc.assignment.AbcAssignmentProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.297 s <<< FAILURE! - in com.abc.assignment.AbcAssignmentProjectApplicationTests
+initializationError(com.abc.assignment.AbcAssignmentProjectApplicationTests)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.Exception: Method createUser() should not be static
+
+initializationError(com.abc.assignment.AbcAssignmentProjectApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method createUser() should be public
+
