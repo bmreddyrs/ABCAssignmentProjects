@@ -12,11 +12,11 @@
 	</parent>
 
 	<groupId>com.abc</groupId>
-	<artifactId>ABCAssignmentProject</artifactId>
+	<artifactId>ABCAssignmentProjects</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging> <!-- war -->
 	<name>ABCAssignmentProject</name>
-	<description>ABCAssignmentProject</description>
+	<description>ABCAssignmentProjects</description>
 
 	<properties>
 		<java.version>1.8</java.version>
